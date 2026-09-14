@@ -67,7 +67,7 @@ const muhammadUsman = {
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 
 <br/>
 
