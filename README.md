@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Muhammad%20Usman&fontSize=48&fontColor=0d1117&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=35&descAlign=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Muhammad%20Usman&fontSize=48&fontColor=0d1117&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student&descAlign=50&descAlignY=55">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%40+GIFT+University;React+%26+React+Native+Developer;Backend+%26+Database+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%40+GIFT+University;React+%26+React Native">
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Internships-7dd3fc?style=for-the-badge&logo=handshake&logoColor=white" />
@@ -41,7 +41,7 @@ const muhammadUsman = {
 
 #### 🎮 Game of Bones — Turn-Based Strategy AI Game
 
-*Engineered an interactive turn-based game featuring an intelligent AI opponent powered by the Alpha-Beta Pruning algorithm for optimal decision-making. Implemented full Player vs. AI modes, an in-game GUI, and strategic gameplay mechanics.*
+*Engineered an interactive turn-based game featuring an intelligent AI opponent powered by the Alpha-Beta Pruning algorithm for optimal decision-making. Implemented full Player vs. AI modes, an in[...]
 
 | Layer            | Technology |
 |------------------|------------|
@@ -74,11 +74,11 @@ const muhammadUsman = {
 
 **Networking & Concepts**
 <br/>
-<img src="https://img.shields.io/badge/TCP%2FIP-1a1a2e?style=for-the-badge" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1a1a2e?style=for-the-badge" /> <img src="https://img.shields.io/badge/Socket%20Programming-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCP%2FIP-1a1a2e?style=for-the-badge" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1a1a2e?style=for-the-badge" /> <img src="https://img.shields.io/b[...]
 
 **Dev Tools & Productivity**
 <br/>
-<img src="https://skillicons.dev/icons?i=github,vscode" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=github,vscode" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" width="45" height="45"/> <img src=[...]
 
 <br/>
 
