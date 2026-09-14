@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Muhammad%20Usman&fontSize=48&fontColor=0d1117&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20StudentdescAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Muhammad%20Usman&fontSize=48&fontColor=0d1117&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20React%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%40+GIFT+University;React+%26+React+Native+Developer;Backend+%26+Database+Enthusiast" />
