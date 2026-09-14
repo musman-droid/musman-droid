@@ -79,6 +79,13 @@ const muhammadUsman = {
 **Dev Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" height="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" height="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" />
 
 <br/>
 
