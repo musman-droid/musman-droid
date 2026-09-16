@@ -92,6 +92,7 @@ Banking management system with a focus on front-end dashboard design plus backen
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=html,css,react" /></p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 **Backend / Infra**
 <p><img src="https://skillicons.dev/icons?i=nodejs" /></p>
@@ -100,7 +101,7 @@ Banking management system with a focus on front-end dashboard design plus backen
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" /></p>
 
 **Dev Tools**
-<p><img src="https://skillicons.dev/icons?i=github, vscode" /></p>
+<p><img src="https://skillicons.dev/icons?i=github,vscode" /></p>
 
 ---
 
