@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=200&section=header&text=Muhammad%20Usman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Frontend%20%26%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=220&section=header&text=Muhammad%20Usman&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/musman-droid">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BSCS+Student+at+GIFT+University;React+%26+React+Native+Developer;Building+with+Java%2C+Python+%26+JavaScript;Exploring+Networking+with+Cisco+Packet+Tracer;Open+to+Internship+Opportunities" alt="Typing SVG" />
@@ -100,7 +100,7 @@ Banking management system with a focus on front-end dashboard design plus backen
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" /></p>
 
 **Dev Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github" /></p>
+<p><img src="https://skillicons.dev/icons?i=github, vscode" /></p>
 
 ---
 
@@ -115,13 +115,6 @@ Banking management system with a focus on front-end dashboard design plus backen
   <img src="https://streak-stats.demolab.com?user=musman-droid&theme=nord&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musman-droid&theme=nord&no-frame=true&no-bg=true&column=7"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musman-droid&theme=react-dark&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff"/>
-</div>
 
 ---
 
